@@ -1,0 +1,5 @@
+streamlit>=1.40,<2
+openai>=1.66,<4
+python-dotenv>=1.0,<2
+pytest>=8,<10
+pytest-cov>=5,<8
